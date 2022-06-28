@@ -16,4 +16,4 @@ phases:
       - echo Build completeon `date`
 artifacts:
   files:
-    - target/*.war
+    - target/my-app.war
