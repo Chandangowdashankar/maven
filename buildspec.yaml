@@ -17,4 +17,4 @@ phases:
 artifacts:
   files:
     - appspec.yml
-    - target/my-app.war
+    - 'target/my-app.war'
