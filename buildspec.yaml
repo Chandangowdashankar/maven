@@ -16,4 +16,5 @@ phases:
       - echo Build completeon `date`
 artifacts:
   files:
+    - appspec.yml
     - target/my-app.war
